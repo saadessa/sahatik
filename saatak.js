@@ -27,7 +27,6 @@ function autoLink(){
         }
     }
 }
-</script>
 <script type='text/javascript'>
 var f = new autoLink();
 f.add(&quot;علاج البواسير&quot;, &quot;https://sahhatk.blogspot.com/2015/03/blog-post_9.html&quot;);
